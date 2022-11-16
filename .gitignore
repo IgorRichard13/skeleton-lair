@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.meta
+Assets/Sounds/ffprobe.exe
+Assets/Sounds/ffplay.exe
+Assets/Sounds/ffmpeg.exe
