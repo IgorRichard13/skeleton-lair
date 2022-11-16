@@ -1,0 +1,100 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.10.2016 11:25:13
+
+newmtl uchwyt
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_uchwyt.jpg
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_uchwyt.jpg
+
+newmtl cylinder
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_cylinder.jpg
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_cylinder.jpg
+
+newmtl pergamin_bottom
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_pergamin_bottom.jpg
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_pergamin_bottom.jpg
+
+newmtl pergamin_top
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_pergamin_top.jpg
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_pergamin_top.jpg
+
+newmtl uchwyt_pergaminu
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\uchwyt_pergaminu_poprawiony_new_uv.png
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\uchwyt_pergaminu_poprawiony_new_uv.png
+
+newmtl korona
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_korona.jpg
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\276_VII_Zwoj_Ksiegi_Estery_korona.jpg
+
+newmtl WMM
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\logotyp_wmm.png
+	map_Kd H:\sketchfab\Stara_synagoga\MHK_276_VII_Zwoj_Ksiegi_Estery\03_PUBLIKACJA\sketchfab\logotyp_wmm.png
