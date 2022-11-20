@@ -2541,6 +2541,7 @@ MonoBehaviour:
   isBoss: 0
   firstAttack2: 0
   firstAttack3: 0
+  enemyPrefab: {fileID: 0}
   health: 100
   fovRadius: 20
   rotationSpeed: 1
@@ -2549,6 +2550,7 @@ MonoBehaviour:
   isInInterruption: 0
   openToBackstab: 1
   hardAction: -1
+  currentTarget: {fileID: 0}
   actionSnapshots:
   - anim: Attack 1
     score: 100
@@ -2951,7 +2953,7 @@ GameObject:
   - component: {fileID: 1851701917835724837}
   - component: {fileID: 1851701917835724836}
   m_Layer: 10
-  m_Name: Skeleton
+  m_Name: skeletonMain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2983,7 +2985,7 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1851701917835724834}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 8ed68a3a383765a4bb2001de21d699c1, type: 3}
+  m_Avatar: {fileID: 9000000, guid: 1bd37f534b25a734d84b82316816f2fc, type: 3}
   m_Controller: {fileID: 9100000, guid: dc65578a1ab0dfe468403ba72710b42a, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
